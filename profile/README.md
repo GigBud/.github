@@ -2,13 +2,11 @@
 
 Gig Bud is a dynamic platform that connects job seekers with employers, offering a seamless and efficient way to find and fill job opportunities. Our mission is to revolutionize the hiring process and empower individuals by providing access to a diverse range of job opportunities.
 
-
 ## About Gig Bud
 
 At Gig Bud, we believe that everyone deserves meaningful employment and the opportunity to thrive in their careers. Our platform bridges the gap between job seekers and employers, making it easier than ever to discover, apply for, and secure job opportunities.
 
 ## Key Features
-
 
 - **Efficient Job Search:** Easily search and filter through a wide range of job listings to find the perfect match for your skills and preferences.
 
@@ -24,6 +22,6 @@ We are committed to transforming the way people find and offer jobs, and we're e
 
 ### 🚧 Building Phase
 
-Gig Bud is currently in the building phase, where our dedicated team is working hard to bring our vision to life. We are designing and developing the platform to ensure a user-friendly experience for both job seekers and employers. We appreciate your patience and support during this exciting phase.
+Gig Bud is currently in the building phase, where our dedicated team is working hard to bring our vision to life. We are designing and developing the platform to ensure a user-friendly experience for both job seekers and employers. We appreciate your patience and support during this exciting phase. hello
 
 To stay updated with the latest developments, upcoming features, and launch announcements, make sure to watch this repository for notifications on major updates, We are thrilled to have you on board as we build Gig Bud into a game-changing platform that revolutionizes the hiring process. Thank you for your interest and support!
