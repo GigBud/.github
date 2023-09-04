@@ -22,6 +22,6 @@ We are committed to transforming the way people find and offer jobs, and we're e
 
 ### 🚧 Building Phase
 
-Gig Bud is currently in the building phase, where our dedicated team is working hard to bring our vision to life. We are designing and developing the platform to ensure a user-friendly experience for both job seekers and employers. We appreciate your patience and support during this exciting phase. hello
+Gig Bud is currently in the building phase, where our dedicated team is working hard to bring our vision to life. We are designing and developing the platform to ensure a user-friendly experience for both job seekers and employers. We appreciate your patience and support during this exciting phase.
 
 To stay updated with the latest developments, upcoming features, and launch announcements, make sure to watch this repository for notifications on major updates, We are thrilled to have you on board as we build Gig Bud into a game-changing platform that revolutionizes the hiring process. Thank you for your interest and support!
