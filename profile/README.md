@@ -2,8 +2,6 @@
 
 Gig Bud is a dynamic platform that connects job seekers with employers, offering a seamless and efficient way to find and fill job opportunities. Our mission is to revolutionize the hiring process and empower individuals by providing access to a diverse range of job opportunities.
 
-
-
 ## About Gig Bud
 
 At Gig Bud, we believe that everyone deserves meaningful employment and the opportunity to thrive in their careers. Our platform bridges the gap between job seekers and employers, making it easier than ever to discover, apply for, and secure job opportunities.
