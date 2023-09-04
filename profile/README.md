@@ -8,6 +8,7 @@ At Gig Bud, we believe that everyone deserves meaningful employment and the oppo
 
 ## Key Features
 
+
 - **Efficient Job Search:** Easily search and filter through a wide range of job listings to find the perfect match for your skills and preferences.
 
 - **Seamless Application Process:** Apply for jobs directly through the platform with just a few clicks, eliminating the hassle of traditional application methods.
